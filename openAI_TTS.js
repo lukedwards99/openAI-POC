@@ -10,7 +10,7 @@ async function main() {
   const mp3 = await openai.audio.speech.create({
     model: "tts-1",
     voice: "alloy",
-    input: "Hi luna baby",
+    input: "hello world tts",
   });
   console.log(speechFile);
   const buffer = Buffer.from(await mp3.arrayBuffer());
