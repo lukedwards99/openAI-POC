@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.12.0",
+    "openai": "^4.48.3"
+  },
+  "name": "openai-poc",
+  "version": "1.0.0",
+  "main": "basicRequest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
