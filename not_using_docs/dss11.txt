@@ -1,0 +1,16 @@
+https://www.statefarm.com/customer-care/faqs/drive-safe-save
+
+**How do I know if my phone is eligible for Drive Safe & Save Mobile?**
+Just text SAVE to 42407 to get a link to download the app in Google Play or the App Store. If you are able to download the app, your phone is compatible!
+
+Ineligible phones will see a message saying the device is not compatible. Features required for participation include:
+
+Phone
+Network
+Location/GPS
+Bluetooth
+Accelerometer
+Camera
+Auto-focus
+Flash
+Gyroscope

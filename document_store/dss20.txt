@@ -1,0 +1,4 @@
+https://www.statefarm.com/customer-care/faqs/drive-safe-save
+
+**Why do I have to allow Precise Location for the Drive Safe & Save app?**
+The Drive Safe & Save app cannot record trips without Precise Location enabled, because your driving behaviors are measured and validated using both phone sensors and GPS.

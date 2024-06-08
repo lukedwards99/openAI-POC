@@ -1,0 +1,1 @@
+CREATE TABLE DOCUMENT_TABLE (id bigserial PRIMARY KEY, documentText TEXT, docEmbedding vector(1536), summary TEXT, summaryEmbedding vector(1536), url TEXT);

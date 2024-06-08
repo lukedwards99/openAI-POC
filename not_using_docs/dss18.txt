@@ -1,0 +1,6 @@
+https://www.statefarm.com/customer-care/faqs/drive-safe-save
+
+**Do I need to open the Drive Safe & Save app to record trips?**
+You do not need to open the app to record a trip. Once your setup is complete, trips will record automatically with your Bluetooth on and Location preferences set to Always Allow.
+
+If you are missing trips, please refer to the Troubleshooting Tips.

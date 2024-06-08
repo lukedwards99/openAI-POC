@@ -1,0 +1,10 @@
+https://www.statefarm.com/customer-care/faqs/drive-safe-save
+
+**Why do I have to have location services set to "Always" for the Drive Safe & Save app?**
+iPhone and Android have location preference options for: "Always Allow" and "While Using the App" (exact wording varies by operating system). Drive Safe & Save runs in the background to start, record, and stop trips - you don't need to log in or bring the app up to record trips. This means it needs to use the "Always" setting versus the "While Using the App" option.
+
+Here's a run-down of what each setting means (exact wording varies by operating system):
+
+Never: This feature makes it so the app can never access your location for any reason at all.
+
+While Using the App: This feature makes it so the app in

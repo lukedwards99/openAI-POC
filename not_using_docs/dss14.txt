@@ -1,0 +1,8 @@
+https://www.statefarm.com/customer-care/faqs/drive-safe-save
+
+**What are the 2-Week Driving Scores displayed in the Drive Safe & Save app?**
+Note: Each driver should log in using their own credentials or driver’s license information. The information displayed in the app is customized by the information used to log in.
+
+Dynamic 2-week Driving Scores are displayed on the dashboard. These are safety scores reflective of all your trips during the past 14 days. These scores are not directly related to the discount amount for individual vehicles. These scores could include trips from multiple vehicles. The driving behaviors included in the safety score are those you see in the individual trip maps.
+
+If a score is under 100%, we encourage you to review individual trips maps to check for areas of improvement. While not everything scored in the app contributes toward the discount, safer driving can have a positive impact on your discount.

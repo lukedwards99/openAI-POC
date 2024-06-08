@@ -1,0 +1,6 @@
+https://www.statefarm.com/customer-care/faqs/drive-safe-save
+
+**Am I required to have Bluetooth and Location services on when I am not driving?**
+Not necessarily. If you wish to limit your battery usage, you have the option to turn Bluetooth and Location services off when you are not driving. However, it is imperative that you turn these on before starting each trip to ensure all driving data is captured.
+
+Leaving your Bluetooth and Location on allows the app to automatically start a trip when you begin driving, and turning them off removes this functionality. If your Bluetooth and Location are not on during a trip, it will not record.
