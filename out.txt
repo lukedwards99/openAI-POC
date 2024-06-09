@@ -1,0 +1,453 @@
+Script started at time Sat Jun 08 2024 18:56:36 GMT-0500 (Central Daylight Time)
+adding to db: 0
+{
+  document: '\n' +
+    '**Why should I enroll in Drive Safe & Save?**\n' +
+    'Enrolling in Drive Safe & Save may help you get an auto insurance discount up to 30% based on how you drive.footnote1 You get a discount just for enrolling!footnote2 Each product option offers different safety and security features. Please talk to your State Farm® agent or explore the FAQs below for more information.',
+  documentEmbed: 3072,
+  summary: 'enroll, Drive Safe & Save, auto insurance, discount, drive, safety, security, features, agent, FAQs',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/drive-safe-save'
+}
+adding to db: 1
+{
+  document: '\n' +
+    '**Does participating in Drive Safe & Save guarantee me a discount?**\n' +
+    'Drive Safe & Save is a discountfootnote1 for participating customers. The Drive Safe & Save discount is based on your annual mileage and basic driving characteristics.\n' +
+    '\n' +
+    'Your discount may vary from term to term based on your actual driving, but will not add a surcharge to your policy.\n' +
+    '\n' +
+    'If you currently receive a premium reduction for low estimated annual mileage (under 7,500 miles annually for personal use) and your car is driven more than that, your premium may increase at a future policy renewal to reflect your actual mileage.\n' +
+    '\n' +
+    'Note: Mileage and odometer readings are excluded from the Drive Safe & Save discount on certain policies in certain states.',
+  documentEmbed: 3072,
+  summary: 'participating, Drive Safe & Save, discount, annual mileage, driving characteristics, surcharge, premium reduction, low estimated, odometer readings, policies, states.',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/drive-safe-save'
+}
+adding to db: 2
+{
+  document: '\n' +
+    '**Why do I have to have location services set to "Always" for the Drive Safe & Save app?**\n' +
+    'iPhone and Android have location preference options for: "Always Allow" and "While Using the App" (exact wording varies by operating system). Drive Safe & Save runs in the background to start, record, and stop trips - you dont need to log in or bring the app up to record trips. This means it needs to use the "Always" setting versus the "While Using the App" option.\n' +
+    '\n' +
+    "Here's a run-down of what each setting means (exact wording varies by operating system):\n" +
+    '\n' +
+    'Never: This feature makes it so the app can never access your location for any reason at all.\n' +
+    '\n' +
+    'While Using the App: This feature makes it so the app in',
+  documentEmbed: 3072,
+  summary: 'location services, Drive Safe & Save, iPhone, Android, Always Allow, background, trips, log in, Never, operating system, background, recording trips, stop trips.',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/drive-safe-save'
+}
+adding to db: 3
+{
+  document: '\n' +
+    '**How do I see my discount?**\n' +
+    'You can see your current discount amount on your Drive Safe & Save account page on statefarm.com® or on the State Farm mobile app. This information will be updated at each auto policy renewal (typically every 6 months).\n' +
+    '\n' +
+    'Named insureds (the names you see on your insurance ID card) enrolled in Drive Safe & Save Mobile can also view this information on the Drive Safe & Save app.',
+  documentEmbed: 3072,
+  summary: 'discount, Drive Safe & Save, account page, mobile app, auto policy renewal, named insureds, insurance ID card, Drive Safe & Save Mobile, Drive Safe & Save app, enrolled.',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/drive-safe-save'
+}
+adding to db: 4
+{
+  document: '\n' +
+    '**If I have one car enrolled in Drive Safe & Save, are all the cars I own required to participate?**\n' +
+    'No. Drive Safe & Save is optional and is car specific. You can make the decision to enroll for each individual household car.',
+  documentEmbed: 3072,
+  summary: 'car, Drive Safe & Save, optional, individual household, enroll, participate',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/drive-safe-save'
+}
+adding to db: 5
+{
+  document: '\n' +
+    '**How do I change my email address for Drive Safe & Save reminders?**\n' +
+    'Drive Safe & Save emails are sent to the first named insured listed on the insurance policy for that vehicle. The first named insured is the first name listed on the insurance ID card for that vehicle. The first named insured may update their email address on file with State Farm by logging in to their statefarm.com account, then navigating to Communication Preferences under Profile & Preferences.',
+  documentEmbed: 3072,
+  summary: 'change, email address, Drive Safe & Save, reminders, first named insured, insurance policy, vehicle, ID card, update, State Farm, logging in, account, Communication Preferences, Profile & Preferences',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/drive-safe-save'
+}
+adding to db: 6
+{
+  document: '**General insurance**\n' +
+    '\n' +
+    '**What is the customer service phone number?**\n' +
+    'The State Farm toll-free customer service number is 855-733-7333.',
+  documentEmbed: 3072,
+  summary: 'Customer service, phone number, toll-free, 855-733-7333',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/insurance'
+}
+adding to db: 7
+{
+  document: '**Can I change my coverages online?**\n' +
+    'Yes. You may request changes to your coverages online and they will be forwarded to your agent for processing.\n' +
+    '\n' +
+    'To request changes, follow these steps:\n' +
+    '1. Log into your account.\n' +
+    '2. Select the policy you want to change.\n' +
+    '3. Click Quote/Change Coverages.\n' +
+    '4. Select the coverages you would like to change and click Continue.\n' +
+    '5. Review changes and click Continue to approve.\n' +
+    '6. Enter Contact Information and click Continue.\n' +
+    '7. Review changes and click Submit.',
+  documentEmbed: 3072,
+  summary: 'changes, coverages, online, request, agent, processing, policy, Quote/Change, Continue, Review, approve, Enter Contact Information, Submit',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/insurance'
+}
+adding to db: 8
+{
+  document: '**I made a payment though my agents office. Why is it showing I have an amount due?**\n' +
+    "It could take up to 24 hours for a payment made in your agent's office to reflect online. If it has been over 24 hours, please contact your agent.",
+  documentEmbed: 3072,
+  summary: "payment, agent's office, amount due, reflect online, contact, 24 hours",
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/insurance'
+}
+adding to db: 9
+{
+  document: '**Who do I contact if I have other online questions?**\n' +
+    'You can contact Internet Support by phone at 888-559-1922. Internet Support representatives are available 24-hours a day, seven days a week.',
+  documentEmbed: 3072,
+  summary: 'contact, Internet Support, phone, 888-559-1922, representatives, available, 24-hours, seven days a week',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/insurance'
+}
+adding to db: 10
+{
+  document: '**Is my account number the same as my policy number?**\n' +
+    'No. A policy number is an alpha-numeric code unique to each individual policy at State Farm. An account number is a 10-digit number associated with a State Farm Payment Plan (SFPP).\n' +
+    '\n' +
+    'If you have questions about your policy or payment plan, please contact your agent.',
+  documentEmbed: 3072,
+  summary: 'account number, policy number, alpha-numeric code, unique, individual policy, State Farm, payment plan, agent.',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/insurance'
+}
+adding to db: 11
+{
+  document: '**Why am I unable to access my spouses account online? We are listed on the same policy.**\n' +
+    'For security reasons, each statefarm.com online account can only be listed in one name and date of birth. Each named insured on the policy may register their individual online account.',
+  documentEmbed: 3072,
+  summary: 'spouses, account, online, policy, security, named insured, register.',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/insurance'
+}
+adding to db: 12
+{
+  document: "**Im getting a message that I'm not authorized to view my policy online. What should I do?**\n" +
+    'If you receive this message when trying to access your policy, please contact your agent.',
+  documentEmbed: 3072,
+  summary: 'message, authorized, view, policy, online, contact, agent',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/insurance'
+}
+adding to db: 13
+{
+  document: '**Can I print my declaration page online?**\n' +
+    'Due to technical limitations, the declaration page is not available online. Some information is available in the My Accounts tab, however this information is not proof of coverage.\n' +
+    '\n' +
+    'To request a declaration page, please contact your agent.',
+  documentEmbed: 3072,
+  summary: 'print, declaration page, online, technical limitations, My Accounts tab, proof of coverage, request, agent',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/insurance'
+}
+adding to db: 14
+{
+  document: '\n' +
+    'What does a homeowners policy cover?\n' +
+    'Unless the cause of loss is excluded in the policy, a homeowners policy provides coverage for personal liability, medical payments to others, and accidental direct physical loss to your dwelling.\n' +
+    '\n' +
+    'In addition, the policy provides coverage for your personal property for specific perils including, but not limited to:\n' +
+    '\n' +
+    '- Fire\n' +
+    '- Lightning\n' +
+    '- Windstorm\n' +
+    '- Hail\n' +
+    '- Theft',
+  documentEmbed: 3072,
+  summary: 'homeowners policy, coverage, personal liability, medical payments, accidental, direct physical loss, dwelling, personal property, perils, fire, lightning, windstorm, hail, theft',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/home-and-property-insurance'
+}
+adding to db: 15
+{
+  document: '\n' +
+    'What is the difference between market value and replacement cost?\n' +
+    'Market value is the amount a buyer would pay for the home and land in its current condition. It is influenced by factors such as proximity to good schools, local crime statistics, and the availability of similar homes.\n' +
+    '\n' +
+    'Replacement cost is the cost to replace the entire home. When you insure your home for its estimated replacement value, your insurer will reimburse you for the cost of rebuilding your home, subject to policy limitations, based on the size and structure of the home that was lost.\n' +
+    '\n' +
+    'Replacement cost is not:\n' +
+    '\n' +
+    '- The market value of the home\n' +
+    '- The homes purchase price\n' +
+    '- The cost of the land\n' +
+    '- The outstanding amount of any mortgage',
+  documentEmbed: 3072,
+  summary: 'difference, market value, replacement cost, buyer, home, land, condition, proximity, good schools, local crime statistics, availability, similar homes, cost, insure, estimated replacement value, insurer, reimburse, rebuilding, size, structure, lost, purchase price, outstanding amount, mortgage.',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/home-and-property-insurance'
+}
+adding to db: 16
+{
+  document: '\n' +
+    'Can I purchase my policy online?\n' +
+    'In most cases you can purchase a policy online at the end of the quote process. You can also retrieve and purchase a policy up to 30 days after you receive a quote.\n' +
+    '\n' +
+    'When purchasing online you have the opportunity to verify the information you provided during the quote process.\n' +
+    '\n' +
+    'Note: Premiums are based on the information provided which must comply with State Farm rules and may be revised.',
+  documentEmbed: 3072,
+  summary: 'purchase, policy, online, quote process, retrieve, verify, information, premiums, State Farm rules, revised',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/home-and-property-insurance'
+}
+adding to db: 17
+{
+  document: '\n' +
+    'Why are you asking for my Social Security number?\n' +
+    'Providing your Social Security number (SSN) is optional. However, providing a SSN is the most accurate way to help us identify consumer reporting information related to our applicants.\n' +
+    '\n' +
+    'Your SSN is treated as confidential information in accordance with the State Farm privacy policy. We value our customers and potential customers and take privacy seriously.',
+  documentEmbed: 3072,
+  summary: 'Social Security number, SSN, optional, accurate, identify, consumer reporting information, applicants, confidential information, State Farm, privacy policy, customers, potential customers, privacy.',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/home-and-property-insurance'
+}
+adding to db: 18
+{
+  document: '\n' +
+    'Are all life insurance products available to apply online?\n' +
+    '\n' +
+    'No. Not all life products are available to apply online. Contact a State Farm® agent if you cannot apply online for a specific product.',
+  documentEmbed: 3072,
+  summary: 'life insurance, products, apply online, State Farm, agent, specific product',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/life-insurance'
+}
+adding to db: 19
+{
+  document: '\n' +
+    'Can an agent submit my life application if I started it online?\n' +
+    '\n' +
+    'Yes. If you start an application online and contact an agent for assistance, the agent can edit the application before you sign it. Once all parties involved complete the signature process, the agent can submit the application.',
+  documentEmbed: 3072,
+  summary: 'Agent, submit, life application, started, online, edit, sign, parties involved, complete, signature process.',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/life-insurance'
+}
+adding to db: 20
+{
+  document: '\n' +
+    'Can I sign my documents electronically?\n' +
+    '\n' +
+    'Yes. If you complete the application online you can sign electronically.\n' +
+    'You can also sign documents electronically if the application is submitted by an agent and they select Email Initiated Signatures. Once the agent selects the electronic signature option, you will receive an email with a link to apply signatures.\n' +
+    'Note: Email signature options are available based on state and policy selection type.',
+  documentEmbed: 3072,
+  summary: 'sign, documents, electronically, application, online, agent, email, signatures, apply, state, policy',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/life-insurance'
+}
+adding to db: 21
+{
+  document: '\n' +
+    'What happens if my application is rejected during the application process?\n' +
+    '\n' +
+    'Certain responses to the questions on the life application will cause it to be forwarded to a State Farm® agent. When this occurs, contact a State Farm agent to continue the application process.',
+  documentEmbed: 3072,
+  summary: 'application, rejected, questions, life application, State Farm agent, continue, process',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/life-insurance'
+}
+adding to db: 22
+{
+  document: '\n' +
+    'What if I am unable to complete my life application online?\n' +
+    '\n' +
+    'If you are unable to complete your life application on statefarm.com®, contact your State Farm agent® to continue the application process.',
+  documentEmbed: 3072,
+  summary: 'life application, online, complete, unable, contact, State Farm agent, application process',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/life-insurance'
+}
+adding to db: 23
+{
+  document: '\n' +
+    'Do I need an email address to apply for life insurance online?\n' +
+    '\n' +
+    'Yes. You need an email address to complete an electronic application and view policy information documents.\n' +
+    'Note: If you do not have an email address, contact a State Farm® agent to apply for coverage.',
+  documentEmbed: 3072,
+  summary: 'email address, apply, life insurance, online, electronic application, view policy information documents, contact, agent, coverage',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/life-insurance'
+}
+adding to db: 24
+{
+  document: '\n' +
+    'How will I receive notifications about my life application?\n' +
+    '\n' +
+    'You can receive email notifications if you provide an email address and consent to email notifications. You will not receive any life quote or application notifications over text message.\n' +
+    'If you do not have an email address and consent, contact your State Farm® agent for application notifications.',
+  documentEmbed: 3072,
+  summary: 'notifications, life application, email address, consent, text message, agent, application notifications',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/life-insurance'
+}
+adding to db: 25
+{
+  document: '\n' +
+    'How can I see my saved quote?\n' +
+    '\n' +
+    'To see your saved quote, complete these steps:\n' +
+    '  1. Log in to statefarm.com®.\n' +
+    '  2. Click Continue under the saved quote on your My Accounts page.\n' +
+    'Note: You must be a statefarm.com registered user to retrieve saved quotes.',
+  documentEmbed: 3072,
+  summary: 'saved quote, log in, My Accounts page, registered user, retrieve saved quotes.',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/life-insurance'
+}
+adding to db: 26
+{
+  document: '\n' +
+    'Can I retrieve my saved quote and application later?\n' +
+    '\n' +
+    'Yes. You can retrieve your life quote and application in these ways:\n' +
+    '  • Follow the instructions in the email you received.\n' +
+    '  • Log in to statefarm.com® and click Continue under the saved quote you want to view.\n' +
+    'Note: If it has been more than 30 days since the quote was saved, you must start a new quote.',
+  documentEmbed: 3072,
+  summary: 'retrieve, saved quote, application, email, log in, statefarm.com, continue, view, 30 days, new quote.',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/life-insurance'
+}
+adding to db: 27
+{
+  document: '\n' +
+    'Can I choose my State Farm® agent?\n' +
+    '\n' +
+    'You can choose a State Farm agent when you get a life insurance policy quote on statefarm.com®. If you do not choose an agent before you start an application, the system will assign one. Once you start a life application, you will not be able to change your agent.',
+  documentEmbed: 3072,
+  summary: 'choose, agent, life insurance, quote, application, system, assign, change',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/customer-care/faqs/life-insurance'
+}
+adding to db: 28
+{
+  document: '\n' +
+    'What is the difference between a transfer and rollover?\n' +
+    '\n' +
+    'A transfer is a movement of funds between like-type plans (e.g., IRA to IRA, SEP to SEP, Roth IRA to Roth IRA).\n' +
+    'A rollover is generally a movement of funds from one type of plan (e.g., 401k) to another type of plan (e.g., IRA).',
+  documentEmbed: 3072,
+  summary: 'difference, transfer, rollover, movement, funds, like-type plans, IRA, SEP, Roth IRA, 401k',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/finances/mutual-funds/resources/faqs'
+}
+adding to db: 29
+{
+  document: '\n' +
+    'Why do I need to call the custodian in the case of a direct rollover?\n' +
+    '\n' +
+    'Most custodians require the participant to call to request distribution paperwork. Custodians may process rollover requests through Internet forms or phone calls.',
+  documentEmbed: 3072,
+  summary: 'call, custodian, direct rollover, participant, distribution paperwork, rollover requests, Internet forms, phone calls',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/finances/mutual-funds/resources/faqs'
+}
+adding to db: 30
+{
+  document: '\n' +
+    'Whats the difference between a 529 savings plan and 529 prepaid plan?\n' +
+    '\n' +
+    "A 529 Savings Plan is a program that allows participants to invest in a special account designated for qualified higher education expenses. 529 savings plans offer a rate of return that depends on the performance of the plan's investments. As such, the value of a 529 savings plan account may increase or decrease over time.\n" +
+    "A prepaid tuition plan allows parents, grandparents, and others to lock in today's tuition rates. The program will pay out future college tuition at any of the state's eligible colleges or universities (or make a payment to private and out-of-state institutions).",
+  documentEmbed: 3072,
+  summary: '529 savings plan, 529 prepaid plan, invest, higher education expenses, rate of return, investments, value, prepaid tuition plan, parents, grandparents, tuition rates, future college tuition, eligible colleges, universities, private institutions, out-of-state institutions.',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/finances/mutual-funds/resources/faqs'
+}
+adding to db: 31
+{
+  document: '\n' +
+    'What happens to an account if the beneficiary dies, becomes disabled, or does not attend college?\n' +
+    '\n' +
+    'If the beneficiary of an account dies or becomes disabled, you are entitled to receive the balance in your account. Investment earnings will be taxed at your ordinary income rate. No federal penalty tax will be assessed and the trust will not assess a contingent deferred sales charge. You may also transfer the balance tax-free to an account for another beneficiary who is a qualified family member.\n' +
+    'If your beneficiary elects not to pursue post-secondary education, you may either transfer the account balance to an account for another beneficiary who is a qualified family member or withdraw the principal and investment earnings in a non-qualified withdrawal.',
+  documentEmbed: 3072,
+  summary: 'account, beneficiary, dies, disabled, college, balance, investment earnings, taxed, ordinary income rate, federal penalty tax, trust, contingent deferred sales charge, transfer, tax-free, family member, post-secondary education, withdraw, principal, non-qualified withdrawal.',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/finances/mutual-funds/resources/faqs'
+}
+adding to db: 32
+{
+  document: '\n' +
+    'What are considered institutions of higher education?\n' +
+    '\n' +
+    'Institutions of higher education include:\n' +
+    "• Accredited, post-secondary educational institutions offering credit toward a bachelors degree, an associate's degree, or a graduate level or professional degree.\n" +
+    '• Post-secondary vocational institutions with recognized post-secondary credentials.\n' +
+    'Institutions must also be eligible to participate in U.S. Department of Education student aid programs.\n' +
+    '``',
+  documentEmbed: 3072,
+  summary: "institutions, higher education, accredited, post-secondary, educational, credit, bachelors degree, associate's degree, graduate level, professional degree, vocational institutions, credentials, U.S. Department of Education, student aid programs",
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/finances/mutual-funds/resources/faqs'
+}
+adding to db: 33
+{
+  document: '\n' +
+    'Is there risk in owning too many funds?\n' +
+    '\n' +
+    'Yes. Although diversification may help your portfolio, it doesnt assure a profit or protect against loss in a declining market. Over-diversification can dilute your investment results and hinder progress towards achieving your goals.\n' +
+    'You need to find a balance between returns and risk with a select number of funds appropriate for your personal financial needs.',
+  documentEmbed: 3072,
+  summary: 'risk, owning, funds, diversification, portfolio, profit, protect, loss, declining market, over-diversification, dilute, investment results, hinder, progress, goals, balance, returns, risk, select number, appropriate, personal financial needs',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/finances/mutual-funds/resources/faqs'
+}
+adding to db: 34
+{
+  document: '\n' +
+    'What can I do to ease my concerns over recent price fluctuations of the stock markets?\n' +
+    '\n' +
+    "During a volatile market period, its important to remain focused on your long-term investment goals. There's always market risk involved when investing, including possible loss of principal. The resources on these pages may help you understand the benefits of diversifying your portfolio and making regular investments over a long period of time. Although no investment program cannot ensure a profit, a long-term plan may ease uncertainty created by market changes.",
+  documentEmbed: 3072,
+  summary: 'recent, price fluctuations, stock markets, volatile market, long-term investment goals, market risk, investing, possible loss of principal, diversifying portfolio, regular investments, long period of time, investment program, profit, uncertainty, market changes.',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/finances/mutual-funds/resources/faqs'
+}
+adding to db: 35
+{
+  document: '\n' +
+    'What is the annual deadline for contributing to my traditional or Roth IRA?\n' +
+    '\n' +
+    'You can make annual contributions to a traditional or Roth IRA from January 1 through the tax-filing deadline (excluding extensions) for the contribution year. For example, 2023 contributions can be made from January 1, 2024 through April 15, 2024.',
+  documentEmbed: 3072,
+  summary: 'annual, deadline, contributing, traditional, Roth IRA, January 1, tax-filing deadline, extensions, contribution year, 2023, April 15, 2024.',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/finances/mutual-funds/resources/faqs'
+}
+adding to db: 36
+{
+  document: '\n' +
+    'How do I change my IRA beneficiary?\n' +
+    '\n' +
+    'Without a beneficiary, your IRA assets will generally pass to your estate upon your death. The assets could be subject to potential delays and expenses associated with settling an estate and distribution options allowed by federal income tax law may be limited.',
+  documentEmbed: 3072,
+  summary: 'change, IRA, beneficiary, assets, pass, estate, death, delays, expenses, settling, distribution, federal income tax law, limited',
+  summaryEmbed: 1536,
+  url: 'https://www.statefarm.com/finances/mutual-funds/resources/faqs'
+}
+Script ended at time Sat Jun 08 2024 18:57:24 GMT-0500 (Central Daylight Time)

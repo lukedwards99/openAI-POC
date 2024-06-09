@@ -3,7 +3,7 @@ import path from "path";
 import fs from "fs";
 
 const speechFile = path.resolve("./speech.mp3");
-const openai = new OpenAI({ apiKey: "sk-proj-x28G8e98ELPX2KeCAwCKT3BlbkFJ4Aor5UangukMmS3B0IT3" });
+const openai = new OpenAI({ apiKey: "" });
 
 async function main() {
     console.log(new Date())
